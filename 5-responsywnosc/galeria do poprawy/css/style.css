@@ -33,7 +33,7 @@ figure img {
   border: 1% solid #444;
 }
 
-@media screen and (max-width: 992) {
+@media screen and (max-width: 992px) {
   figure {
     width: 49%;
   }
